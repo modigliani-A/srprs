@@ -132,3 +132,9 @@ section .details span{
   text-align: justify;
   display: none;
 }
+
+@media (max-width: 600px){
+    .box{
+        width: 90%;
+    }
+}
